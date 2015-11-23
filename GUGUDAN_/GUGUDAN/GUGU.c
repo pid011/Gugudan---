@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 int main(void) {
-	/*array[0] = 2, array[1] = 1*/
-	int i[2] ;
+	
+	int i[2] ;  /*  array[0], array[1]  */
 	int result = 0;
 	int length = 10;
 	for ( i[0] = 2; i[0] < length; i[0]++)
